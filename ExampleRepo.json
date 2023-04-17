@@ -1,12 +1,12 @@
 {
-    "icon": "https://media.discordapp.net/attachments/969879614379921418/1042854504091090994/haxi0_iOS.png?width=419&height=419",
-    "name": "haxi0's Source",
+    "icon": "file:///System/Library/PrivateFrameworks/Preferences.framework/UnreadBubble@2x.png",
+    "name": "test source",
     "apps": [
       {
-        "title": "Jaility",
-        "urlimg": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
-        "url": "https://github.com/haxi0/Jaility/releases/download/3.1.1/Jaility-3.1.1.ipa",
-        "bundleid": "org.haxi0.Jaility",
+        "title": "xyz",
+        "urlimg": "file:///System/Library/PrivateFrameworks/Preferences.framework/LiveActivities@2x.png",
+        "url": "https://suii.com/ipa.ipa",
+        "bundleid": "q",
         "completed": false
       }
     ]
